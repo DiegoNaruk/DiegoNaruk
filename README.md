@@ -3,11 +3,17 @@
 #Sobre mi
 
 .- Cientifico de Datos de la Universidad de los Andes
+
 .- Diplomado en Ciencia de Datos y Big Data 2023
+
 .- Curso Estadistica para ciencia de datos en la Pontificia Universidad Catolica de Chile 2023
+
 .- Ciencia de datos avanzado con python en Skillnest 2025
+
 .- Python para analisis de Datos en DesafioLatam 2024
+
 .- Especialista en Automatización e IA con N8n 2026
+
 
 
 
