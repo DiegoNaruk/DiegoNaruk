@@ -1,6 +1,7 @@
 #Hola, Soy Diego Araya Hernandez
 
 #Sobre mi
+
 .- Cientifico de Datos de la Universidad de los Andes
 .- Diplomado en Ciencia de Datos y Big Data 2023
 .- Curso Estadistica para ciencia de datos en la Pontificia Universidad Catolica de Chile 2023
@@ -19,5 +20,5 @@
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/TU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diegoarayahern%C3%A1ndez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](diego.araya.h@gmail.com)
