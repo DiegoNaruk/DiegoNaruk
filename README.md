@@ -14,7 +14,7 @@
 
 .- Especialista en Automatización e IA con N8n 2026
 
-
+.- MLOps: Del Modelo al Entorno Productivo Smartdata 2026
 
 
 ## Stack principal
