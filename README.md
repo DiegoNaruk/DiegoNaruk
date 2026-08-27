@@ -16,6 +16,8 @@
 
 .- MLOps: Del Modelo al Entorno Productivo Smartdata 2026
 
+.- Git y Github para Ciencia de Datos 2026
+
 
 ## Stack principal
 
